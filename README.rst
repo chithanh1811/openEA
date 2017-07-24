@@ -10,18 +10,19 @@ Welcome to the Git repository of the OpenEA project. The OpenEA project is an op
 - Two programming options: C++ code or EAML configuration file
 - Powerful Command-Line Interface (CLI) allowing fast configuration
 - Plugin loader which loads user code without recompiling
-- Parallelism via MultiThreading or distributed computation on a computing cluster or grid
-- Back-up to and Restore from file system
+- Parallelism via multithreading or distributed computation on a computing cluster or grid
+- Back-up to and restore from file system
 - Speed tracker (both generational and for each phase)
 
 Authors
 =======
 
-- Robin Müller-Bady
-- Bùi Quang Minh
-- Nguyen Chí Thành
-- Pham Nguyen Quang
+- Robin Mueller-Bady
+- Bui Quang Minh
 - Kiet Quang Huynh Vo
+- Chi-Thanh Nguyen 
+- Nguyen-Quang Pham
+- Manuel Schildknecht
 
 Individual contribution is shown in the specific source files.
 https://netzwerksicherheit.fb2.fh-frankfurt.de/
