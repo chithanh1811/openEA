@@ -1,5 +1,5 @@
 =================================================================================
-OpenEA - A framework for efficient and scalable design of evolutionary algorithms
+OpenEA - A framework for efficient design of scalable evolutionary algorithms
 =================================================================================
 
 Welcome to the Git repository of the OpenEA project. The OpenEA project is an open-source framework for Evolutionary Computing built in C++. The framework is general-purpose and can be expanded to fit any demand without sacrificing speed and reusability. Here are the main features of the framework:
