@@ -51,7 +51,7 @@ The documentation is created using the doxygen toolset.
 Create the documentation by calling
     $> openea doc update
 after installation of openEA.
-You can find the final HTML documentation at EA/html/ having EA/html/index.html as starting point.
+You can find the created HTML documentation at EA/html/ having EA/html/index.html as starting point.
 
 Copyright and License
 =====================
