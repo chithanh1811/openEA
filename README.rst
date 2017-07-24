@@ -25,7 +25,7 @@ Authors
 - Manuel Schildknecht
 
 Individual contribution is shown in the specific source files.
-https://netzwerksicherheit.fb2.fh-frankfurt.de/
+Please see https://netzwerksicherheit.fb2.fh-frankfurt.de/ for further details on the research group.
 
 Installation
 ============
@@ -45,9 +45,13 @@ This command will compile the source and create symbolic links to the binary and
 
 And a list of available sub-commands should be printed on the terminal.
 
-How to use
+Documentation
 ==========
-For new users, it is recommended to read the Tutorials page on the website of the project.
+The documentation is created using the doxygen toolset.
+Create the documentation by calling
+    $> openea doc update
+after installation of openEA.
+You can find the final HTML documentation at EA/html/ having EA/html/index.html as starting point.
 
 Copyright and License
 =====================

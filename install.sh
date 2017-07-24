@@ -7,7 +7,6 @@ execpath=$(realpath $(dirname "$0"))
 
 echo "Installing dependencies..."
 echo
-add-apt-repository ppa:minhcly95/openea -y
 apt update
 apt install libboost1.63-all-dev libtinyxml2-dev libopenmpi-dev libeigen3-dev wcstools doxygen graphviz librestbed-dev
 echo
